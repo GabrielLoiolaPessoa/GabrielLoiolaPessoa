@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielloiolapessoa&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielloiolapessoa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielloiolapessoa" alt="gabrielloiolapessoa" /></a> </p>
+- I’m currently working on **Java + Spring Boot projects**
 
-- 🔭 I’m currently working on **Java + Spring Boot projects**
+- I’m currently learning **Node Js, TypeScript and ExpressJs**
 
-- 🌱 I’m currently learning **Node Js, TypeScript and ExpressJs**
+- I’m looking to collaborate on **inspiring projects with nice people**
 
-- 👯 I’m looking to collaborate on **inspiring projects with nice people**
+- Ask me about **Java, Spring, Node, Linux**
 
-- 💬 Ask me about **Java, Spring, Node, Linux**
-
-- 📫 How to reach me **jugularcontato@gmail.com**
+- How to reach me **jugularcontato@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielloiolapessoa&show_icons=true&locale=en" alt="gabrielloiolapessoa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielloiolapessoa&" alt="gabrielloiolapessoa" /></p>
+
