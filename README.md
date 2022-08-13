@@ -7,7 +7,7 @@
 
 - I’m currently learning **Node Js, TypeScript and ExpressJs**
 
-- I’m looking to collaborate on **inspiring projects with nice people**
+- I’m looking for collaborate on **inspiring projects with nice people**
 
 - Ask me about **Java, Spring, Node, Linux**
 
