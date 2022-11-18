@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielloiolapessoa&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielloiolapessoa" /> </p>
 
-- I’m currently working on **Java + Spring Boot projects**
+- I’m currently working on **Java + Kotlin + Spring Boot + Oracle SQL Developer + Docker + New Relic + Splunk + TerraForm **
 
-- I’m currently learning **Node Js, TypeScript and ExpressJs**
+- I’m currently learning **Kotlin and C++**
 
 - I’m looking for collaborate on **inspiring projects with nice people**
 
-- Ask me about **Java, Spring, Node, Linux**
+- Ask me about **Java, Spring Boot, Kotlin, Linux,**
 
 - How to reach me **jugularcontato@gmail.com**
 
