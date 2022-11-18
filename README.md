@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielloiolapessoa&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielloiolapessoa" /> </p>
 
-- I’m currently working on **Java + Kotlin + Spring Boot + Oracle SQL Developer + Docker + New Relic + Splunk + TerraForm **
+- I’m currently working on **Java + Kotlin + Spring Boot + Oracle SQL Developer + Docker + New Relic + Splunk + TerraForm**
 
 - I’m currently learning **Kotlin and C++**
 
