@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gabriel de Loiola Pessoa</h1>
-<h3 align="center">A Back-end developer passionate about solve problems</h3>
+<h3 align="center">A Back-end developer passionate about life</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielloiolapessoa&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielloiolapessoa" /> </p>
 
 - I’m currently working on **Java + Kotlin + Spring Boot + Oracle SQL Developer + Docker + New Relic + Splunk + TerraForm**
 
-- I’m currently learning **Kotlin and C++**
+- I’m currently learning **Kotlin**
 
 - I’m looking for collaborate on **inspiring projects with nice people**
 
